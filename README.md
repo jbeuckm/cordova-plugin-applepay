@@ -5,7 +5,7 @@ This plugin is to give an idea of what ApplePay will probably look like. Thanks 
 
 ## Installation
 
-cordova plugin add https://github.com/jbeuckm/cordova-plugin-applepay.git
+```cordova plugin add https://github.com/jbeuckm/cordova-plugin-applepay.git```
 
 ## Supported Platforms
 
